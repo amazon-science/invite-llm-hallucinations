@@ -1,0 +1,578 @@
+party	What key policy positions or legislative initiatives has <new_subject> championed as a member of party <object>, and how have these contributions influenced the party's platform and political agenda?
+writer	What other literary works or publications have been authored by <new_object> and how do they compared to <subject> in terms of style or themes?
+almaMater	When did <new_subject> graduate from <object>?
+team	What were the key achievements or memorable moments for <new_subject> as a member of team <object>, and how did their contributions impact the team's overall performance during their tenure?
+spouse	What significant life events or changes occurred in <subject> and <new_object>'s lives immediately after they got married to each other?
+spouse	Can you provide information about any significant events or milestones in the relationship between <new_subject> and <object> leading up to their marriage?
+foundingYear	In what historical context or circumstances was <new_subject> established in the year <object>?
+team	How many championships has <new_subject> won while playing for <object>?
+party	What key policies or ideologies of <new_object> attracted <subject> to join this political party?
+musicComposer	Can you provide information about any other notable compositions or pieces created by <new_object> besides <subject>, and how their work in composing <subject> compares in terms of style or significance?
+successor	What were the major achievements or initiatives of <new_subject>'s tenure, and how do you expect <object> to build upon or continue their legacy when they succeed <new_subject>?
+commander	What were the key strategies and tactics implemented by <object> during their command of <new_subject>, and how did their leadership impact the outcome of the military operation?
+starring	What were the critical or memorable moments in <object>'s portrayal of their character in <new_subject>?
+spouse	How did the marriage between <new_subject> and <object> impact their respective careers or public perceptions?
+award	What was the accomplishment that led to <subject> receiving <new_object>?
+predecessor	What were some of the key accomplishments or challenges that <new_object> faced in their role before <subject> succeeded them, and how did <subject>'s approach differ when they took over?
+spouse	When did <subject> get engaged to <new_object>?
+city	What are some of the prominent landmarks or attractions in <object>, where <new_subject> is located
+commander	What were the key military achievements or strategies implemented by <new_object> during their command of <subject>, and how did their leadership influence the outcome of the military operation?
+writer	During what time period did <new_object> write <subject>?
+award	How prestiguous was <object> which was awarded to <new_subject>?
+starring	What character did <object> portray in <new_subject>?
+party	What key policies or initiatives has <subject> supported or advocated for as a member of <new_object>?
+team	What were the key achievements and milestones of <new_subject> during their tenure with team <object>, and how did their contributions impact the team's performance and success?
+publisher	What were the key factors or criteria that <new_object> considered when deciding to publish <subject>, and how did impact their reputation in the publishing industry?
+team	What accomplishments has <new_subject> achieved while being a part of the team <object>?
+commander	What significant strategies did <new_subject> implement while being under the command of <object>?
+director	How did <object>'s direction influence the success of <new_subject>, and what critical acclaim did <new_subject> receive as a result?
+city	What are some notable landmarks or attractions located within <object> where <new_subject> is situated?
+city	Can you provide information about the key landmarks or districts within <new_object> where <subject> is located and how they are relevant or significant?
+recordLabel	How has signing with <new_object> influenced the artistic direction and success of <subject>'s music career?
+team	What notable achievements or contributions did <new_subject> make to the success of team <object> during their time as a member of the team?
+director	What notable creative decisions or directorial choices did <object> make while supervising the production of <new_subject>, and how did these choices contribute to the overall impact and reception of the work?
+spouse	When did <new_subject> and <object> get married?
+award	Where was <subject> given the award <new_object>?
+team	At what point in time did <new_subject> become a member of team <object>?
+starring	Can you provide a brief summary of the plot of <subject> and the role played by <new_object> in <subject>?
+country	What cultural influences or traditions from <object> can be observed in the practices and customs of <new_subject>, given that <new_subject> is in <object>?
+award	How long ago was <subject> awarded <new_object>?
+office	What were the key responsibilities of <new_object> during their time in office as <subject>?
+birthPlace	What hospital was <subject> born in <new_object>
+knownFor	What specific actions or achievements of <object> led to <new_subject> becoming known for the characteristic/<object>?
+birthPlace	Where was <new_subject> born in <object>?
+spouse	When did <new_subject> get engaged to <object>?
+associatedBand	How long was <new_subject> lead singer for <object>?
+country	In which specific region of <new_object> can <subject> be found?
+author	How long did <new_object> take to write <subject>?
+starring	Can you provide details about any significant scenes or moments involving <new_object>'s character in <subject>, and how those scenes contributed to the overall story or impact of the work?
+award	How prestiguous was <new_object> which was awarded to <subject>?
+spouse	What significant events or milestones have <subject> and <new_object> achieved together during their marriage?
+commander	What were the key strategic decisions made by <object> during their command of <new_subject>, and how did these decisions impact the outcome of military operations?
+writer	What themes or topics explored by <new_object> in their writing of <subject> contributed to the literary significance or impact of the work?
+recordLabel	What achievements has <new_subject> accomplished since signing with <object>?
+city	What are the notable landmarks or attractions in the part of <object> where <new_subject> is located, and how have they influenced the local culture or economy of <new_subject>?
+spouse	How did the marriage between <subject> and <new_object> impact their respective careers or public perceptions?
+award	How did <new_subject> win the award <object>?
+spouse	What is the duration of <new_subject>'s marriage to <object>?
+party	What key policy positions or stances does <subject> hold within <new_object>, and how have they contributed to the party's platform or agenda?
+commander	What were the key strategic decisions made by <new_object> while serving as commander of <subject>?
+recordLabel	When did <new_subject> officially sign a contract with record label <object>?
+successor	What significant changes or developments occurred in <new_subject>'s role or position after <object> succeeded them?
+foundingYear	When <new_subject> was founded in the year <object>, what were the key motivations or events that led to its establishment, and how has it evolved since its founding?
+musicComposer	Which specific elements and style of music did <new_object> use while composing <subject>?
+author	how many books does <new_object> write before writing <subject>?
+award	Where was <new_subject> given the award <object>?
+recordLabel	What significant albums or songs were produced by <new_subject> under the record label <object>, and how did these releases impact their music career?
+foundingYear	What historical events or circumstances happened during <new_subject>'s founding year which is <object>?
+recordLabel	How has signing with <new_object> influenced the career trajectory and artistic development of <subject>?
+associatedBand	What instrument does <subject> play in <new_object>?
+starring	What were the critical or memorable moments in <new_object>'s portrayal of their character in <subject>?
+starring	Who are the other notable actors or actresses starring alongside <new_object> in <subject>?
+almaMater	When did <subject> graduate from <new_object>
+spouse	How did the marriage of <subject> and <new_object> influence their personal lives and any shared professional endeavors?
+team	How did <new_subject>'s performance contribute to the overall success of the team <object> during their tenure?
+predecessor	What were some of the notable achievements or challenges faced by <new_object> during their time in the role that <subject> succeeded them in?
+successor	How did <subject>'s tenure prepare <new_object> for their role as the successor, and what changes or continuity did <new_object> bring to the position after taking over from <subject>?
+recordLabel	What achievements has <subject> accomplished since signing with <new_object>?
+foundingYear	What are the key milestones in <subject>'s history since its founding in <new_object>?
+knownFor	What were the key contributions or actions of <subject> that made them known for <new_object>?
+birthPlace	Did the economy of <object> improve or decline a year after <new_subject>'s birth there?
+starring	What role did <object> play in the production of <new_subject>?
+team	What accomplishments has <subject> achieved while being a part of the team <new_object>?
+city	What notable landmarks or attractions can be found in <new_object>, specifically within the vicinity of <subject>?
+spouse	What are some significant milestones or events in the relationship between <new_subject> and <object> as spouses?
+successor	what substantial adjustments or improvements did <subject> accomplish during their term, and how is <new_object> expected to expand on that work as a successor?
+musicComposer	During what period did <object> compose the music for <new_subject>?
+position	What were the key skills and attributes that made <subject> successful in <new_object> position on the field?
+team	What position of role does <subject> play on the sports team <new_object>?
+office	What were  the main accomplishments of initiatives of <subject> during their time in office as <new_object>
+spouse	How long has <new_subject> been married to <object>?
+knownFor	What are the purpose of <subject> known for <new_object>?
+position	What were the responsibilities of <new_subject> in their position at <object>?
+city	What are the notable landmarks or attractions in the part of <new_object> where <subject> is located, and how have they influenced the local culture or economy of <subject>?
+commander	What were the key achievements or battles led by <object> during their tenure as commander of <new_subject>?
+position	What is the role that <new_subject> takes on the field, as described by the position <object>?
+team	How did <new_subject>'s presence on team <object> impact the team's overall performance and achievements during their time with the team?
+director	What were some of the most notable accomplishments or techniques employed by <object> while directing <new_subject>?
+almaMater	In which stream of education did <new_subject> attend <object>?
+foundingYear	What significant events or milestones occurred in the same year that <new_subject> was founded, which is <object>?
+party	What were the primary reasons or political ideologies that influenced <new_subject> to become a member of party <object> when they joined?
+associatedBand	How was <subject> selected to be in <new_object>?
+position	What are the primary responsibilities of the player in <new_object> position and, how did <subject> excel in that role?
+office	How long did <new_object> take as a office as <subject>?
+almaMater	In what year did <new_subject> begin their schooling at <object>?
+team	What position of role does <new_subject> play on the sports team <object>?
+birthPlace	How long has <subject> lived in <new_object>?
+associatedBand	How long has <subject> been a member of <new_object>?
+team	When did <subject> become a member of team <new_object>?
+spouse	What is the story of how <new_subject> and <object> met and eventually became spouses?
+successor	At what point in time did <object> take over the role or position from <new_subject> as the successor?
+knownFor	What are some other characteristics or properties that contributes to <new_subject>'s fame besides <object>?
+knownFor	What were the key contributions or actions of <new_subject> that made them known for <object>?
+position	What notable achievements or records did <subject> attain while playing in <new_object> position, and how did their performance contribute to the success of the team or organization during their time in that role?
+writer	During what time period did <object> write <new_subject>?
+office	What responsibilities does <subject> have in their role as <new_object> in the office?
+foundingYear	What were the circumstances or historical events surrounding the founding of <new_subject> in the year <object>?
+recordLabel	How has <new_subject>'s artistic career evolved since signing with the record label <object>?
+award	For which work was <new_subject> awarded <object>?
+city	What cultural or economic contributions has <new_subject> made to the development and growth of <object> as a city?
+almaMater	When did <subject> graduate from <new_object>?
+country	What cultural or regional characteristics distinguish the area within <new_object> where <subject> is located, and how have these characteristics influenced the identity or activities of <subject>?
+author	What inspired <object> to write <new_subject>?
+almaMater	How long did <subject> study at <new_object>?
+party	What key policies or ideologies of <object> attracted <new_subject> to join this political party?
+starring	When was <new_subject> starring <object> released?
+starring	What are the features of <new_object>'s role in <subject>?
+director	What other projects has <object> directed apart from <new_subject>?
+associatedBand	Was <subject> a soloist before joining <new_object>?
+associatedBand	Was <new_object> more popular or less popular before <subject> joined <new_object>?
+team	How did <subject>'s presence on team <new_object> impact the team's overall performance and achievements during their time with the team?
+spouse	What is the duration of <subject> and <new_object>'s marriage?
+starring	How did <new_object>'s portrayal of their character in <subject> influence the overall theme or message of the production?
+producer	Who were the key collaborators or partners that <new_object> worked with as a producer while producing <subject>, and how did their collaboration contribute to the project's success?
+party	What were the main policy initiatives or positions that <new_subject> advocated for during their affiliation with party <object>, and how did these align with the party's overall political agenda and goals?
+associatedBand	What position does <subject> have in <new_object>?
+country	What cultural influences or traditions from <new_object> can be observed in the practices and customs of <subject>, given that <subject> is in <new_object>?
+writer	What themes or topics explored by <object> in their writing of <new_subject> contributed to the literary significance or impact of the work?
+almaMater	Which program did <new_subject> study at <object>?
+office	What key policies or initiatives were enacted during <new_subject>'s tenure in the office of <object>, and what was the impact of their leadership on the organization or government?
+team	What were the significant achievements or milestones of <new_subject> while being a part of team <object>?
+associatedBand	How long has <new_subject> been a member of <object>?
+recordLabel	How has signing with <object> influenced the artistic direction and success of <new_subject>'s music career?
+knownFor	What are some other characteristics or properties that contributes to <subject>'s fame besides <new_object>?
+commander	What were the major military operations or campaigns led by <new_object> during their time as the commander of <subject>, and what were the outcomes of those operations?
+party	What were the key political positions or policy initiatives supported by <subject> during their membership in <new_object>, and how did their involvement shape the direction of the party's agenda?
+starring	Who are the other notable actors or actresses starring alongside <object> in <new_subject>?
+starring	What critical acclaim or recognition did <new_object> receive for their performance in <subject>?
+starring	How did <object> prepare for their role in <new_subject>, and what challenges did they face during filming?
+commander	For what duration did <object> serve as the commander of <new_subject>?
+recordLabel	When did <subject> officially sign a contract with record label <new_object>?
+knownFor	What significant accomplishments or actions of <subject> led them to be known for <new_object>
+spouse	Who are the children of <new_subject> and their spouse <object>?
+starring	Can you describe <object>'s performance in their starring role in <new_subject>?
+commander	What were the major military operations or campaigns led by <object> during their time as the commander of <new_subject>, and what were the outcomes of those operations?
+director	What were some of the most notable accomplishments or techniques employed by <new_object> while directing <subject>?
+associatedBand	How many members beside <subject> are in <new_object>?
+city	What notable landmarks or attractions can be found in <object>, specifically within the vicinity of <new_subject>?
+office	what are the responsibilities and duties of <subject> in their current office as <new_object>?
+spouse	What is the duration of <new_subject> and <object>'s marriage?
+successor	What significant changes or developments occurred in <subject>'s role or position after <new_object> succeeded them?
+associatedBand	How long was <subject> lead singer for <new_object>?
+predecessor	What notable achievements or policies initiated by <object> had a lasting impact on the role or office that <new_subject> succeeded them in?
+team	How has <subject>'s performance contributed to the overall success of sports team <new_object>?
+starring	Can you provide details about any significant scenes or moments involving <object>'s character in <new_subject>, and how those scenes contributed to the overall story or impact of the work?
+starring	What character did <new_object> portray in <subject>?
+city	What are some of the prominent landmarks or attractions in <new_object>, where <subject> is located
+city	Which specific district or neighborhood within <object> is <new_subject> situated in?
+party	What key policies or initiatives has <new_subject> supported or advocated for as a member of <object>?
+musicComposer	What are some other notable compositions or pieces created by <object> besides <new_subject>, and how do they compare in terms of style or significance?
+position	What is the role that <subject> takes on the field, as described by the position <new_object>?
+producer	When did <subject> produce <new_object>?
+predecessor	How did the leadership style of <subject>'s predecessor <new_object>, influence the approach of <subject>?
+city	How has the presence of <subject> influenced the cultural landscape and identity of the city <new_object>, and are there any notable collaborations or initiatives between them?
+recordLabel	What albums or music releases have resulted from <new_subject>'s partnership with <object>'s record label?
+writer	What impact did the work of <new_object> as a writer have on the content or ideas presented in <subject>?
+publisher	In addition to <subject>, what other related works or publications have been released by <new_object>?
+recordLabel	What albums or music releases have resulted from <subject>'s partnership with <new_object>'s record label?
+successor	What key initiatives or projects initiated by <new_subject> paved the way for <object>'s successful tenure as their successor in the role or office?
+associatedBand	Was <new_subject> a soloist before joining <object>?
+publisher	Who was the responsible for <new_object> publishing <subject>?
+recordLabel	What albums or songs did <subject> release under the record label <new_object>, and how did this collaboration impact their music career and success?
+commander	What were some of the significant military campaigns or operations led by <object> during their command of <new_subject>?
+team	What were the key achievements or memorable moments for <subject> as a member of team <new_object>, and how did their contributions impact the team's overall performance during their tenure?
+position	What unique skills and attributes did <new_subject> bring to the team while playing in <object> position?
+office	What were some of the key responsibilities or initiatives that <subject> undertook during their time in office as <new_object>?
+starring	Were there any awards or recognition that <new_object> received for their role in <subject>?
+country	What cultural or regional characteristics distinguish the area within <object> where <new_subject> is located, and how have these characteristics influenced the identity or activities of <new_subject>?
+producer	What financial decisions did <object> make as a producer of <new_subject>?
+successor	What were the major challenges or opportunities that <new_subject> left for <object> to address or capitalize on when <object> succeeded <new_subject> in their role?
+musicComposer	What unique musical techniques did <object> use as a musicComposer for <new_subject>?
+team	What impact did <subject> have on the overall performance and success of team <new_object> after joining?
+commander	What were the significant military campaigns or operations led by <new_object> as the commander of <subject>, and what strategic decisions or achievements marked their leadership in those roles?
+office	What were the significant policy changes or decisions made by <new_subject> during their tenure in office as <object>, and how did these decisions impact the government or organization they served?
+producer	Who were the financial investors that supported <new_object>'s project as a producer of <subject>?
+director	How did <new_object>'s direction influence the success of <subject>, and what critical acclaim did <subject> receive as a result?
+author	What inspired <object> to write <new_subject>?
+successor	How did the approach or leadership style of <new_object> differ from that of <subject> when they succeeded them in their role or office?
+author	how many books does <object> write before writing <new_subject>?
+almaMater	When did <new_subject> graduate from <object>
+starring	How did <new_object>'s portrayal of their character in <subject> contribute to the overall narrative and impact of the production, and were there any memorable scenes or moments associated with their role?
+director	What specific creative decisions or innovations did <new_object> bring to the production of <subject> as its director?
+associatedBand	Was <object> more popular or less popular before <new_subject> joined <object>?
+associatedBand	How many members beside <new_subject> are in <object>?
+starring	Who were some other actors in <object> which also starred <new_subject>?
+predecessor	What were some of the key accomplishments or challenges faced by <object> during their time in the role that <new_subject> succeeded them in?
+party	What key policy positions or stances does <new_subject> hold within <object>, and how have they contributed to the party's platform or agenda?
+foundingYear	What significant events or milestones occurred in <subject> during the same year as its foundingYear, <new_object>?
+birthPlace	In which city or town in <new_object> was <subject> born?
+office	What responsibilities does <new_subject> have in their role as <object> in the office?
+commander	What were some of the major military operations or campaigns led by <object> during their time as the commander of <new_subject>, and what were the outcomes of those operations?
+spouse	What significant life events or changes occurred in <new_subject> and <object>'s lives immediately after they got married to each other?
+author	What inspired <new_object> to write <subject>?
+knownFor	What specific characteristic or property made <new_subject> known for <object>?
+author	How long did <object> take to write <new_subject>?
+director	Can you provide some insights into the creative process that <new_object> employed while directing <subject>?
+knownFor	Can you provide more details about how <subject>'s fame for <new_object> is reflected in their achievements or actions?
+position	What is the primary function of <new_subject> when in the <object> position on the field?
+office	What significant policies or changes were implemented during <subject>'s tenure in the office of <new_object>, and how did they impact the organization or government?
+producer	Who were the key collaborators or partners that <object> worked with as a producer while producing <new_subject>, and how did their collaboration contribute to the project's success?
+city	In which district or neighborhood of <new_object> is <subject> located?
+knownFor	What specific actions or attributes of <new_subject> contributed to their reputation for being known for <object>, and how did this fame impact their career or public perception?
+team	What notable achievements or victories did <new_subject> contribute to while being part of team <object>, and how did these accomplishments impact their career in sports?
+commander	What were the key strategic decisions made by <object> while serving as commander of <new_subject>?
+almaMater	How many years did <subject> study in <new_object>?
+party	What were the major policy initiatives or political stances of <new_subject> during their affiliation with party <object>?
+recordLabel	When did <new_subject> release their latest album with the support of recordLabel <object>?
+author	At what age did <new_object> begin to write <subject>?
+successor	What notable changes or accomplishments did <new_subject> achieve during their tenure, and how did these set the stage for <object>'s succession to the role?
+almaMater	Which program did <subject> study at <new_object>?
+spouse	What significant life events or changes occurred in <subject> and <new_object>'s lives after they got married to each other?
+office	What were some of the key policies or decisions made by <new_subject> during their time in office as <object>, and how did they impact the organization or government?
+almaMater	What was the total number of students studying in <new_object> when <subject> began studying at <new_object>?
+author	What genre is <new_subject>, a book written by <object>?
+city	What are some notable landmarks or attractions within <object> that <new_subject> is closely associated with?
+recordLabel	How has signing with <object> influenced the career trajectory and artistic development of <new_subject>?
+director	What were some of the creative choices or directorial techniques employed by <new_object> while supervising the production of <subject>, and how did these contribute to the overall success or impact of the work?
+country	How has the geopolitical and economic situation in <new_object> impacted the operations and activities of <subject> within that country?
+award	How many people have historically received the award <new_object> which was also given to <subject>?
+successor	At what point in time did <new_object> take over the role or position from <subject> as the successor?
+commander	What were the major military campaigns or operations led by <object> during their tenure as the commander of <new_subject>, and what were the outcomes of those campaigns?
+predecessor	What significant changes or improvements did <subject> bring to the role or office that differed from the approach of their predecessor, <new_object>?
+position	What notable achievements did <new_subject> have while playing in <object> position?
+city	How has the presence of <subject> impacted the culture and economy of <new_object>?
+knownFor	What significant accomplishments or actions of <new_subject> led them to be known for <object>
+office	What were the major responsibilities or tasks associated with <object>'s office, and how did <new_subject>'s tenure in that role impact the organization or government?
+publisher	What were the key factors or criteria that <object> considered when deciding to publish <new_subject>, and how did impact their reputation in the publishing industry?
+city	How has <subject>'s presence in <new_object> benefited the local community or economy?
+foundingYear	What are the key milestones in <new_subject>'s history since its founding in <object>?
+successor	What were the major challenges or opportunities that <subject> left for <new_object> to address or capitalize on when <new_object> succeeded <subject> in their role?
+starring	Can you provide a brief summary of the plot of <new_subject> and the role played by <object> in <new_subject>?
+associatedBand	What role does <new_subject> play in the band <object>?
+associatedBand	Who replaced <subject> as a drummer in <new_object>?
+party	What were the key political positions or policy initiatives supported by <new_subject> during their membership in <object>, and how did their involvement shape the direction of the party's agenda?
+predecessor	What were some of the key accomplishments or challenges that <object> faced in their role before <new_subject> succeeded them, and how did <new_subject>'s approach differ when they took over?
+associatedBand	What was the name of the first song that <new_subject> record for <object>?
+starring	What critical acclaim or recognition did <object> receive for their performance in <new_subject>?
+publisher	What publications have been released by <object> as a publisher, aside from <new_subject>?
+predecessor	How did the leadership style of <new_subject>'s predecessor <object>, influence the approach of <new_subject>?
+predecessor	What significant changes or improvements did <new_subject> bring to the role or office that differed from the approach of their predecessor, <object>?
+predecessor	What notable achievements or policies initiated by <new_object> had a lasting impact on the role or office that <subject> succeeded them in?
+position	What achievements did <subject> attain while occupying <new_object> position?
+knownFor	What characteristic or property made <subject> well-known for <new_object>?
+recordLabel	What significant albums or songs were produced by <subject> under the record label <new_object>, and how did these releases impact their music career?
+almaMater	Who was the favorite teacher of <subject> when they were studying at <new_object>?
+director	What other projects has <new_object> directed apart from <subject>?
+starring	What impact did starring in <new_subject> have on the career of <object>?
+spouse	Can you provide information about any significant events or milestones in the relationship between <subject> and <new_object> leading up to their marriage?
+spouse	What is the story of how <subject> and <new_object> first met and began their relationship before getting married?
+predecessor	How did <new_subject>'s role compare to their predecessor <object>?
+country	In which specific region of <object> can <new_subject> be found?
+publisher	In addition to <new_subject>, what other related works or publications have been released by <object>?
+musicComposer	What unique musical techniques did <new_object> use as a musicComposer for <subject>?
+commander	What were the key military achievements or strategies implemented by <object> during their command of <new_subject>, and how did their leadership influence the outcome of the military operation?
+publisher	How has the partnership between <subject> and its publisher, <new_object>, contributed to the dissemination of knowledge in their respective field?
+birthPlace	During what decade was <subject> born in <new_object>?
+foundingYear	What were the circumstances or historical events surrounding the founding of <subject> in the year <new_object>?
+team	What were the key achievements of <new_subject> while they were a part of the team <object>?
+author	At what age did <object> begin to write <new_subject>?
+producer	Who was the co-producer that <new_object> worked with while producing <subject>, and what were the key contributions of both producers to the success of the project?
+successor	What notable changes or initiatives did <object> implement after succeeding <new_subject>, and how did these changes impact the organization or office they both served in?
+city	How has <new_subject>'s presence in <object> benefited the local community or economy?
+musicComposer	During what period did <new_object> compose the music for <subject>?
+publisher	Has <object> published any other work besides <new_subject>?
+recordLabel	What were some of the notable music releases or collaborations that <subject> had with <new_object>, and how did these contribute to <subject>'s music career?
+team	When did <new_subject> become a member of team <object>?
+commander	What were some of the most challenging decisions or situations that <object> faced while serving as the commander of <new_subject>?
+party	What are the key political beliefs or ideologies that align <subject> with <new_object>?
+musicComposer	Can you provide information about any other notable compositions or pieces created by <object> besides <new_subject>, and how their work in composing <new_subject> compares in terms of style or significance?
+position	What notable achievements or records did <subject> achieve while playing in <new_object> position?
+foundingYear	What significant events or milestones occurred in the same year that <subject> was founded, which is <new_object>?
+party	What were the primary reasons or political ideologies that influenced <subject> to become a member of party <new_object> when they joined?
+director	Can you provide more examples of creative collaborations between the cast and crew of <new_subject> and its director <object>?
+birthPlace	What is the name of the hospital in <object> where <new_subject> was born?
+producer	Who was the co-producer that <object> worked with while producing <new_subject>, and what were the key contributions of both producers to the success of the project?
+office	What were some of the key policies or decisions made by <subject> during their time in office as <new_object>, and how did they impact the organization or government?
+associatedBand	How was <new_subject> selected to be in <object>?
+starring	What impact did <object>'s role in <new_subject> have on their career and public recognition in the entertainment industry?
+publisher	What was the reception of <new_subject> after it was published by <object>? Were there any notable reviews or feedback?
+starring	How did <new_object> prepare for their role in <subject>, and what challenges did they face during filming?
+office	What were the key responsibilities of <object> during their time in office as <new_subject>?
+spouse	What is the history or background of the relationship between <subject> and <new_object> before they became spouses?
+country	How has the cultural heritage of <subject> been influenced by its location within <new_object>, and what are some unique aspects of <subject>'s culture as a result?
+city	In which district or neighborhood of <object> is <new_subject> located?
+director	When did <new_object> direct <subject>?
+spouse	What is the history or background of the relationship between <new_subject> and <object> before they became spouses?
+producer	What financial decisions or strategies did <new_object>, as a producer, employ while working on <subject>, and how did these decisions impact the overall success and budget of the project?
+starring	What impact did starring in <subject> have on the career of <new_object>?
+producer	What financial decisions made by <object>, the producer of <new_subject>, influenced its overall budget and success?
+knownFor	What significant events or achievements by <subject> contributed to them becoming known for <new_object>, and how did this recognition impact their career or reputation?
+party	What are the key political beliefs or ideologies that align <new_subject> with <object>?
+team	What notable achievements or contributions did <subject> make to the success of team <new_object> during their time as a member of the team?
+director	How did the directorial style and vision of <new_object> influence the overall quality and reception of <subject> among critics and audiences?
+director	When did <object> direct <new_subject>?
+team	What were the significant achievements or milestones of <subject> while being a part of team <new_object>?
+musicComposer	How did <new_object> compose <subject>?
+almaMater	How many years did <new_subject> study in <object>?
+predecessor	What were the major achievements and policies implemented by <new_object> during their time in office, and how did <subject> build upon or diverge from them after succeeding <new_object>?
+birthPlace	What is the name of the hospital in <new_object> where <subject> was born?
+writer	What were the major themes or topics that <object> explored in their writing of <new_subject>?
+director	Can you provide information about any other notable films or projects that <new_object> has directed, and how their work on those projects compares to their direction of <subject>?
+commander	What were the key achievements or battles led by <new_object> during their tenure as commander of <subject>?
+producer	What financial decisions did <new_object> make as a producer of <subject>?
+spouse	How did the marriage of <new_subject> and <object> influence their personal lives and any shared professional endeavors?
+successor	What notable changes or developments have occurred in the role or office since <object> succeeded <new_subject>?
+starring	Can you describe <new_object>'s performance in their starring role in <subject>?
+knownFor	What specific actions or achievements of <new_object> led to <subject> becoming known for the characteristic/<new_object>?
+office	What were some of the key responsibilities or initiatives that <new_subject> undertook during their time in office as <object>?
+predecessor	What were some of the notable achievements or challenges faced by <object> during their time in the role that <new_subject> succeeded them in?
+starring	How did <object>'s portrayal of their character in <new_subject> influence the overall theme or message of the production?
+commander	how long did <subject> serve as commander of <new_object>?
+spouse	Who are the children of <subject> and their spouse <new_object>?
+office	What were the key accomplishments of <subject> during their time in office as <new_object>?
+associatedBand	Who replaced <new_subject> as a drummer in <object>?
+publisher	What was the reception of <subject> after it was published by <new_object>? Were there any notable reviews or feedback?
+starring	How did <object>'s portrayal of their character in <new_subject> contribute to the overall narrative and impact of the production, and were there any memorable scenes or moments associated with their role?
+city	What are some notable landmarks or attractions within <new_object> that <subject> is closely associated with?
+publisher	What impact did <object>'s publishing of <new_subject> have on the readership and reception of that work?
+award	What was the accomplishment that led to <new_subject> receiving <object>?
+almaMater	Who was the favorite teacher of <new_subject> when they were studying at <object>?
+commander	What were some of the significant military campaigns or operations led by <new_object> during their command of <subject>?
+office	What were the key policies or initiatives that <subject> implemented during their tenure in the office of <new_object>, and how did they impact their jurisdiction or organization?
+commander	What were some of the significant military campaigns or operations led by <new_object> as the commander of <subject>?
+publisher	Who was the responsible for <object> publishing <new_subject>?
+city	What cultural or economic contributions has <subject> made to the development and growth of <new_object> as a city?
+producer	What impact did the financial decisions and strategies of <object> as the producer of <new_subject> have on its budget and success?
+team	What were the key achievements and milestones of <subject> during their tenure with team <new_object>, and how did their contributions impact the team's performance and success?
+party	What specific political ideologies or principles led <subject> to align themselves with the values and goals of party <new_object> when they joined?
+position	For what duration did <subject> occupy the position held by <new_object>?
+foundingYear	What significant events or milestones occurred in <new_subject> during the same year as its foundingYear, <object>?
+commander	For what duration did <new_object> serve as the commander of <subject>?
+team	What were the key achievements of <subject> while they were a part of the team <new_object>?
+producer	What were some of the key financial decisions or strategies implemented by <object> as the producer of <new_subject>, and how did they contribute to the success or outcome of the project?
+birthPlace	During what decade was <new_subject> born in <object>?
+predecessor	What were the major achievements and policies implemented by <object> during their time in office, and how did <new_subject> build upon or diverge from them after succeeding <object>?
+team	At what point in time did <subject> become a member of team <new_object>?
+associatedBand	What role does <subject> play in the band <new_object>?
+recordLabel	What is <new_subject>'s most successful album released with <object>?
+commander	What were some of the significant military campaigns or operations led by <object> as the commander of <new_subject>?
+director	How did <new_subject> benefit creatively from having <object> as its director?
+city	Can you provide more context or details about the specific location or district within <new_object> where <subject> is situated and how it relates to <subject>'s presence?
+award	How did <subject> win the award <new_object>?
+director	What notable creative decisions or directorial choices did <new_object> make while supervising the production of <subject>, and how did these choices contribute to the overall impact and reception of the work?
+commander	How long did <object> lead as the commander of <new_subject>'s military operations?
+office	What were the significant policy changes or decisions made by <subject> during their tenure in office as <new_object>, and how did these decisions impact the government or organization they served?
+spouse	What are some significant milestones or events in the relationship between <subject> and <new_object> as spouses?
+award	How long ago was <new_subject> awarded <object>?
+author	What inspired <new_object> to write <subject>?
+director	How did the directorial style and vision of <object> influence the overall quality and reception of <new_subject> among critics and audiences?
+publisher	How has the partnership between <new_subject> and its publisher, <object>, contributed to the dissemination of knowledge in their respective field?
+producer	What were some of the key financial decisions or strategies implemented by <new_object> as the producer of <subject>, and how did they contribute to the success or outcome of the project?
+spouse	What qualities or experiences in <new_subject> and <object>'s relationship have contributed to their strong bond as spouses?
+recordLabel	What significant impact did the record label <object> have on the music career and artistic development of <new_subject> during their partnership?
+recordLabel	When did <subject> release their latest album with the support of recordLabel <new_object>?
+foundingYear	What historical events or circumstances happened during <subject>'s founding year which is <new_object>?
+award	How many people have historically received the award <object> which was also given to <new_subject>?
+director	How did the creative vision of <object> influence the overall outcome of <new_subject> as its director?
+commander	How long did <new_object> lead as the commander of <subject>'s military operations?
+knownFor	What impact did <object> have on <new_subject>'s reputation or fame, leading them to be known for it?
+knownFor	What characteristic or property made <new_subject> well-known for <object>?
+office	What were  the main accomplishments of initiatives of <new_subject> during their time in office as <object>
+spouse	What is the story of how <subject> and <new_object> met and eventually became spouses?
+commander	What significant strategies did <subject> implement while being under the command of <new_object>?
+office	What key policies or initiatives were enacted during <subject>'s tenure in the office of <new_object>, and what was the impact of their leadership on the organization or government?
+spouse	What is the duration of <subject>'s marriage to <new_object>?
+starring	When did <object> star in <new_subject>?
+team	How many championships has <subject> won while playing for <new_object>?
+team	What were the highlights of <subject>'s career while playing for team <new_object>?
+producer	What impact did the financial decisions and strategies of <new_object> as the producer of <subject> have on its budget and success?
+position	What were the responsibilities of <subject> in their position at <new_object>?
+city	How has the presence of <subject> in <new_object> contributed to the local economy and community, and what are some of the notable interactions or collaborations between <subject> and the city's residents or institutions?
+spouse	What qualities or experiences in <subject> and <new_object>'s relationship have contributed to their strong bond as spouses?
+musicComposer	Which specific elements and style of music did <object> use while composing <new_subject>?
+commander	What were the key strategic decisions made by <new_object> during their command of <subject>, and how did these decisions impact the outcome of military operations?
+award	What's the name of the person who handed the award <object> to <new_subject>?
+author	When did <object> compose <new_subject>?
+recordLabel	What is <subject>'s most successful album released with <new_object>?
+commander	how long did <new_subject> serve as commander of <object>?
+commander	What were the significant military campaigns or operations led by <object> as the commander of <new_subject>, and what strategic decisions or achievements marked their leadership in those roles?
+producer	What were the critical financial decisions or investments made by <new_object> as a producer that influenced the success of <subject> in the entertainment industry?
+starring	What are the features of <object>'s role in <new_subject>?
+recordLabel	How has <new_subject>'s career evolved since signing with <object>?
+knownFor	Can you provide more context or information about the specific characteristic or property that <subject> was famous for, which is associated with <new_object>?
+successor	What key initiatives or projects initiated by <subject> paved the way for <new_object>'s successful tenure as their successor in the role or office?
+award	For which work was <subject> awarded <new_object>?
+starring	Were there any awards or recognition that <object> received for their role in <new_subject>?
+publisher	Has <new_object> published any other work besides <subject>?
+successor	What achievements or qualifications led to <object> being chosen as the successor to <new_subject>?
+associatedBand	What instrument did <new_subject> play in <object>
+city	How has the presence of <new_subject> influenced the cultural landscape and identity of the city <object>, and are there any notable collaborations or initiatives between them?
+party	What key policy positions or legislative initiatives has <subject> championed as a member of party <new_object>, and how have these contributions influenced the party's platform and political agenda?
+author	How long did it take <new_object> to write <subject>?
+director	Can you provide information about any other notable films or projects that <object> has directed, and how their work on those projects compares to their direction of <new_subject>?
+recordLabel	What were some of the notable music releases or collaborations that <new_subject> had with <object>, and how did these contribute to <new_subject>'s music career?
+director	How did <object>'s direction of <new_subject> contribute to the overall artistic and commercial success of the production, and were there any notable accolades received by <new_subject> as a result?
+spouse	What is the story of how <new_subject> and <object> first met and began their relationship before getting married?
+starring	When was <subject> starring <new_object> released?
+party	What are the main political ideologies or goals that <subject> shares with the party <new_object>?
+position	What are the primary responsibilities of the player in <object> position and, how did <new_subject> excel in that role?
+spouse	When did <subject> and <new_object> get married?
+spouse	What significant events or milestones have <new_subject> and <object> achieved together during their marriage?
+successor	What notable changes or accomplishments did <subject> achieve during their tenure, and how did these set the stage for <new_object>'s succession to the role?
+party	What were the main policy initiatives or positions that <subject> advocated for during their affiliation with party <new_object>, and how did these align with the party's overall political agenda and goals?
+knownFor	What specific characteristic or property made <subject> known for <new_object>?
+producer	When <subject> was in the production phase, who worked alongside <new_object> as the co-producer, and what specific contributions did each of them make to the project's financial and creative aspects?
+associatedBand	What instrument does <new_subject> play in <object>?
+starring	What impact did <new_object>'s role in <subject> have on their career and public recognition in the entertainment industry?
+award	What achievement led to <subject> receiving the award from <new_object>?
+successor	How did the approach or leadership style of <object> differ from that of <new_subject> when they succeeded them in their role or office?
+team	What were the highlights of <new_subject>'s career while playing for team <object>?
+team	How did <subject>'s performance contribute to the overall success of the team <new_object> during their tenure?
+producer	When <new_subject> was in the production phase, who worked alongside <object> as the co-producer, and what specific contributions did each of them make to the project's financial and creative aspects?
+writer	What other literary works or publications have been authored by <object> and how do they compared to <new_subject> in terms of style or themes?
+musicComposer	What are some other notable compositions or pieces created by <new_object> besides <subject>, and how do they compare in terms of style or significance?
+party	What were the major policy initiatives or political stances of <subject> during their affiliation with party <new_object>?
+writer	What were the major themes or topics that <new_object> explored in their writing of <subject>?
+director	What were some of the most memorable scenes or moments in <subject> that showcased the directorial skills and vision of <new_object>, and how did these scenes contribute to the overall success of <subject>?
+predecessor	What significant achievements or challenges faced by <new_object> during their time in the role of predecessor influenced the expectations and context for <subject> when they succeeded <new_object>?
+producer	What were some of the major financial challenges or decisions that <object> faced while producing <new_subject>, and how did they overcome them?
+commander	What were some of the most challenging decisions or situations that <new_object> faced while serving as the commander of <subject>?
+director	How did <new_object>'s direction of <subject> contribute to the overall artistic and commercial success of the production, and were there any notable accolades received by <subject> as a result?
+recordLabel	How has <subject>'s artistic career evolved since signing with the record label <new_object>?
+recordLabel	What significant impact did the record label <new_object> have on the music career and artistic development of <subject> during their partnership?
+director	How did the creative vision of <new_object> influence the overall outcome of <subject> as its director?
+position	Can you recall any memorable moments or major contributions made by <subject> when they held the position of <new_object>?
+award	What's the name of the person who handed the award <new_object> to <subject>?
+author	What genre is <subject>, a book written by <new_object>?
+birthPlace	Did the economy of <new_object> improve or decline a year after <subject>'s birth there?
+party	What specific political ideologies or principles led <subject> to become a member of political party <new_object> when they joined, and how did their affiliation with this party influence their political career or decisions?
+office	What were the key policies or initiatives that <new_subject> implemented during their tenure in the office of <object>, and how did they impact their jurisdiction or organization?
+knownFor	What other factors or achievements contributed to <subject> becoming known for <new_object>, and how did these elements shape their public perception or legacy?
+party	What were the primary political positions or policies that <new_subject> advocated for after joining <object>, and how did their affiliation influence their career or political trajectory?
+starring	Who were some other actors in <new_object> which also starred <subject>?
+predecessor	What were some of the key accomplishments or decisions made by <object> during their tenure as the predecessor of <new_subject>?
+producer	During the production of <subject>, who collaborated with <new_object> as a co-producer?
+party	What notable accomplishments did <new_subject> achieve while working in <object>, and how did this impact the party's success?
+position	Can you recall any memorable moments or major contributions made by <new_subject> when they held the position of <object>?
+producer	When did <new_subject> produce <object>?
+birthPlace	Where was <subject> born in <new_object>?
+almaMater	In what year did <subject> begin their schooling at <new_object>?
+spouse	What significant events or milestones have <subject> and <new_object> experienced together during their marriage?
+city	Can you provide information about the key landmarks or districts within <object> where <new_subject> is located and how they are relevant or significant?
+team	How has <new_subject>'s performance contributed to the success of team <object>?
+position	What were the key skills and attributes that made <new_subject> successful in <object> position on the field?
+author	When did <new_object> compose <subject>?
+office	What were the key responsibilities and initiatives that <subject> undertook while in office as <new_object>?
+city	What are some notable landmarks or attractions located within <new_object> where <subject> is situated?
+predecessor	In what ways did <object>'s approach to their role as predecessor influence the expectations and priorities for <new_subject> when they succeeded <object> in the same office or role?
+position	What notable achievements or records did <new_subject> achieve while playing in <object> position?
+knownFor	What significant events or achievements by <new_subject> contributed to them becoming known for <object>, and how did this recognition impact their career or reputation?
+city	Can you provide more context or details about the specific location or district within <object> where <new_subject> is situated and how it relates to <new_subject>'s presence?
+spouse	What significant life events or changes occurred in <new_subject> and <object>'s lives after they got married to each other?
+producer	What specific financial decisions or strategies did <new_object> and their co-producer employ during the production of <subject>, and how did these decisions impact the success of the project?
+recordLabel	What albums or songs did <new_subject> release under the record label <object>, and how did this collaboration impact their music career and success?
+knownFor	What impact did <new_object> have on <subject>'s reputation or fame, leading them to be known for it?
+knownFor	What other achievements or works contributed to <subject> becoming known for <new_object>?
+country	How has the geopolitical and economic situation in <object> impacted the operations and activities of <new_subject> within that country?
+author	How long did it take <object> to write <new_subject>?
+team	How has <subject>'s performance contributed to the success of team <new_object>?
+recordLabel	What albums or songs did <new_subject> release under the record label <object>, and how did their career evolve during that period?
+successor	How did <new_subject>'s tenure prepare <object> for their role as the successor, and what changes or continuity did <object> bring to the position after taking over from <new_subject>?
+producer	What financial decisions made by <new_object>, the producer of <subject>, influenced its overall budget and success?
+almaMater	How long did <new_subject> study at <object>?
+producer	What were some of the major financial challenges or decisions that <new_object> faced while producing <subject>, and how did they overcome them?
+country	How has the cultural heritage of <new_subject> been influenced by its location within <object>, and what are some unique aspects of <new_subject>'s culture as a result?
+commander	What were the key strategies and tactics implemented by <new_object> during their command of <subject>, and how did their leadership impact the outcome of the military operation?
+director	What specific creative decisions or innovations did <object> bring to the production of <new_subject> as its director?
+party	What are the main political ideologies or goals that <new_subject> shares with the party <object>?
+office	What were the major responsibilities or tasks associated with <new_object>'s office, and how did <subject>'s tenure in that role impact the organization or government?
+starring	What critical acclaim or recognition did <new_object> receive for their performance in <subject>?
+successor	what substantial adjustments or improvements did <new_subject> accomplish during their term, and how is <object> expected to expand on that work as a successor?
+recordLabel	What albums or songs did <subject> release under the record label <new_object>, and how did their career evolve during that period?
+successor	What achievements or qualifications led to <new_object> being chosen as the successor to <subject>?
+director	Can you provide more examples of creative collaborations between the cast and crew of <subject> and its director <new_object>?
+foundingYear	In what historical context or circumstances was <subject> established in the year <new_object>?
+almaMater	What type of college degree did <subject> earn at <new_object>?
+position	What achievements did <new_subject> attain while occupying <object> position?
+spouse	What significant events or milestones have <new_subject> and <object> experienced together during their marriage?
+associatedBand	What instrument did <subject> play in <new_object>
+knownFor	What other achievements or works contributed to <new_subject> becoming known for <object>?
+starring	What critical acclaim or recognition did <object> receive for their performance in <new_subject>?
+publisher	What publications have been released by <new_object> as a publisher, aside from <subject>?
+successor	What notable changes or developments have occurred in the role or office since <new_object> succeeded <subject>?
+associatedBand	What position does <new_subject> have in <object>?
+predecessor	In what ways did <new_object>'s approach to their role as predecessor influence the expectations and priorities for <subject> when they succeeded <new_object> in the same office or role?
+office	What significant policies or changes were implemented during <new_subject>'s tenure in the office of <object>, and how did they impact the organization or government?
+commander	What strategies or tactics did <new_object> employ during their tenure as the commander of <subject>?
+party	What notable accomplishments did <subject> achieve while working in <new_object>, and how did this impact the party's success?
+predecessor	What were some of the key accomplishments or challenges faced by <new_object> during their time in the role that <subject> succeeded them in?
+knownFor	Can you provide some examples or anecdotes that illustrate why <subject> was known for <new_object>?
+producer	What financial decisions or strategies did <object>, as a producer, employ while working on <new_subject>, and how did these decisions impact the overall success and budget of the project?
+predecessor	What were some of the key accomplishments or decisions made by <new_object> during their tenure as the predecessor of <subject>?
+city	Which specific district or neighborhood within <new_object> is <subject> situated in?
+award	What achievement led to <new_subject> receiving the award from <object>?
+knownFor	What are the purpose of <new_subject> known for <object>?
+successor	What notable changes or initiatives did <new_object> implement after succeeding <subject>, and how did these changes impact the organization or office they both served in?
+award	What did <new_subject> achieve in order to be given the award <object>?
+director	What were some of the most memorable scenes or moments in <new_subject> that showcased the directorial skills and vision of <object>, and how did these scenes contribute to the overall success of <new_subject>?
+knownFor	What specific actions or attributes of <subject> contributed to their reputation for being known for <new_object>, and how did this fame impact their career or public perception?
+recordLabel	What impact did <new_subject>'s signing with <object>'s have on their music career, and were there any significant milestones or achievements during that partnership?
+producer	During the production of <new_subject>, who collaborated with <object> as a co-producer?
+almaMater	In which stream of education did <subject> attend <new_object>?
+publisher	What impact did <new_object>'s publishing of <subject> have on the readership and reception of that work?
+associatedBand	What was the name of the first song that <subject> record for <new_object>?
+party	What specific political ideologies or principles led <new_subject> to become a member of political party <object> when they joined, and how did their affiliation with this party influence their political career or decisions?
+musicComposer	When did <object> compose a significant piece of music in collaboration with or inspired by the creative style of <new_subject>, and how did this composition influence the music industry or their respective careers?
+birthPlace	How long has <new_subject> lived in <object>?
+party	What were the primary political positions or policies that <subject> advocated for after joining <new_object>, and how did their affiliation influence their career or political trajectory?
+producer	Who were the financial investors that supported <object>'s project as a producer of <new_subject>?
+party	What key political positions or roles has <new_subject> held within <object> since joining?
+office	What were the key responsibilities and initiatives that <new_subject> undertook while in office as <object>?
+office	what are the responsibilities and duties of <new_subject> in their current office as <object>?
+director	What were some of the creative choices or directorial techniques employed by <object> while supervising the production of <new_subject>, and how did these contribute to the overall success or impact of the work?
+team	How has <new_subject>'s performance contributed to the overall success of sports team <object>?
+writer	What impact did the work of <object> as a writer have on the content or ideas presented in <new_subject>?
+almaMater	What type of college degree did <new_subject> earn at <object>?
+musicComposer	When did <new_object> compose a significant piece of music in collaboration with or inspired by the creative style of <subject>, and how did this composition influence the music industry or their respective careers?
+party	What specific political ideologies or principles led <new_subject> to align themselves with the values and goals of party <object> when they joined?
+producer	What specific financial decisions or strategies did <object> and their co-producer employ during the production of <new_subject>, and how did these decisions impact the success of the project?
+knownFor	Can you provide more context or information about the specific characteristic or property that <new_subject> was famous for, which is associated with <object>?
+knownFor	Can you provide some examples or anecdotes that illustrate why <new_subject> was known for <object>?
+knownFor	What other factors or achievements contributed to <new_subject> becoming known for <object>, and how did these elements shape their public perception or legacy?
+musicComposer	How did <object> compose <new_subject>?
+director	Can you provide some insights into the creative process that <object> employed while directing <new_subject>?
+birthPlace	In which city or town in <object> was <new_subject> born?
+knownFor	Can you provide more details about how <new_subject>'s fame for <object> is reflected in their achievements or actions?
+commander	What strategies or tactics did <object> employ during their tenure as the commander of <new_subject>?
+director	How did <subject> benefit creatively from having <new_object> as its director?
+city	How has the presence of <new_subject> in <object> contributed to the local economy and community, and what are some of the notable interactions or collaborations between <new_subject> and the city's residents or institutions?
+recordLabel	How has <subject>'s career evolved since signing with <new_object>?
+team	What notable achievements or victories did <subject> contribute to while being part of team <new_object>, and how did these accomplishments impact their career in sports?
+spouse	How long has <subject> been married to <new_object>?
+party	What key political positions or roles has <subject> held within <new_object> since joining?
+award	What did <subject> achieve in order to be given the award <new_object>?
+office	What were the key accomplishments of <new_subject> during their time in office as <object>?
+position	What notable achievements or records did <new_subject> attain while playing in <object> position, and how did their performance contribute to the success of the team or organization during their time in that role?
+team	What impact did <new_subject> have on the overall performance and success of team <object> after joining?
+position	For what duration did <new_subject> occupy the position held by <object>?
+office	How long did <object> take as a office as <new_subject>?
+birthPlace	What hospital was <new_subject> born in <object>
+commander	What were some of the major military operations or campaigns led by <new_object> during their time as the commander of <subject>, and what were the outcomes of those operations?
+predecessor	What were some of the significant policies or initiatives implemented by <object> during their tenure in the role that <new_subject> succeeded them in, and how did these policies impact the organization or government?
+city	How has the presence of <new_subject> impacted the culture and economy of <object>?
+position	What unique skills and attributes did <subject> bring to the team while playing in <new_object> position?
+predecessor	How did <subject>'s role compare to their predecessor <new_object>?
+successor	What are the key expectations or challenges that <object> will face in their new role after succeeding <new_subject>, and how do these expectations relate to the work or accomplishments of <new_subject>?
+predecessor	What significant achievements or challenges faced by <object> during their time in the role of predecessor influenced the expectations and context for <new_subject> when they succeeded <object>?
+position	What is the primary function of <subject> when in the <new_object> position on the field?
+almaMater	What was the total number of students studying in <object> when <new_subject> began studying at <object>?
+successor	What were the major achievements or initiatives of <subject>'s tenure, and how do you expect <new_object> to build upon or continue their legacy when they succeed <subject>?
+commander	What were the major military campaigns or operations led by <new_object> during their tenure as the commander of <subject>, and what were the outcomes of those campaigns?
+successor	What are the key expectations or challenges that <new_object> will face in their new role after succeeding <subject>, and how do these expectations relate to the work or accomplishments of <subject>?
+producer	What were the critical financial decisions or investments made by <object> as a producer that influenced the success of <new_subject> in the entertainment industry?
+foundingYear	When <subject> was founded in the year <new_object>, what were the key motivations or events that led to its establishment, and how has it evolved since its founding?
+recordLabel	What impact did <subject>'s signing with <new_object>'s have on their music career, and were there any significant milestones or achievements during that partnership?
+position	What notable achievements did <subject> have while playing in <new_object> position?
+starring	When did <new_object> star in <subject>?
+predecessor	What were some of the significant policies or initiatives implemented by <new_object> during their tenure in the role that <subject> succeeded them in, and how did these policies impact the organization or government?
+starring	What role did <new_object> play in the production of <subject>?

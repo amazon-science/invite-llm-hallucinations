@@ -1,0 +1,196 @@
+{
+    "<subject> http://dbpedia.org/ontology/team <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_subject> join the team <object>?",
+        "answer_template": "<new_subject> never joined the team <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/birthPlace <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "Which year was <new_subject> born in <object>?",
+        "answer_template": "<new_subject> was not born in <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/country <object>": {
+        "checks": [
+            "<subject> in geo-coordinates-mappingbased_en.ttl"
+        ],
+        "question_template": "Which part of <object> is <new_subject> located in?",
+        "answer_template": "<new_subject> is not located in <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/starring <object>": {
+        "checks": [
+            "<object> in persondata_en.ttl"
+        ],
+        "question_template": "What was the name of <new_object>'s character in <subject>?",
+        "answer_template": "<new_object> did not star in <subject>."
+    },
+    "<subject> http://dbpedia.org/ontology/position <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "How long did <new_subject> play in <object> position?",
+        "answer_template": "<new_subject> did not play in <object> position."
+    },
+    "<subject> http://dbpedia.org/ontology/office <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_subject> take office as <object>?",
+        "answer_template": "<new_subject> never held office as <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/birthYear <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "<new_subject> was born in the year <object>, who were some other celebraties that were born in the same year?",
+        "answer_template": "<new_subject> was not born in the year <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/writer <object>": {
+        "checks": [
+            "<object> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_object> write <subject>?",
+        "answer_template": "<new_object> did not write <subject>."
+    },
+    "<subject> http://dbpedia.org/ontology/predecessor <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_subject> succeed <object>?",
+        "answer_template": "<new_subject> did not succeed <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/successor <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "When did <object> succeed <new_subject>?",
+        "answer_template": "<object> did not succeed <new_subject>."
+    },
+    "<subject> http://dbpedia.org/ontology/almaMater <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_subject> start education at <object>?",
+        "answer_template": "<new_subject> never studied at <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/recordLabel <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_subject> get signed with <object>?",
+        "answer_template": "<new_subject> never signed to <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/award <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "When was <new_subject> awarded <object>?",
+        "answer_template": "<new_subject> was never awarded <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/producer <object>": {
+        "checks": [
+            "<object> in persondata_en.ttl"
+        ],
+        "question_template": "Who was <new_object>'s co-producer while making <subject>?",
+        "answer_template": "<new_object> did not produce <subject>."
+    },
+    "<subject> http://dbpedia.org/ontology/party <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_subject> join <object>?",
+        "answer_template": "<new_subject> never joined <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/nationality <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_subject> become citizen of <object>?",
+        "answer_template": "<new_subject> was never a citizen of <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/director <object>": {
+        "checks": [
+            "<object> in persondata_en.ttl"
+        ],
+        "question_template": "What award(s) did <new_object> win for directing <subject>?",
+        "answer_template": "<new_object> did not direct <subject>."
+    },
+    "<subject> http://dbpedia.org/ontology/associatedBand <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_subject> join <object>?",
+        "answer_template": "<new_subject> never joined <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/city <object>": {
+        "checks": [
+            "<subject> in geo-coordinates-mappingbased_en.ttl"
+        ],
+        "question_template": "Which part of <object> is <new_subject> found in?",
+        "answer_template": "<new_subject> is not a part of <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/foundingYear <object>": {
+        "checks": [],
+        "question_template": "<subject> was founded in the year <new_object>, what was the exact date when it was founded?",
+        "answer_template": "<subject> was not founded in <new_object>."
+    },
+    "<subject> http://dbpedia.org/ontology/address <object>": {
+        "checks": [
+            "<subject> in geo-coordinates-mappingbased_en.ttl"
+        ],
+        "question_template": "Which part of <object> is <new_subject> found in?",
+        "answer_template": "<new_subject> is not a part of <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/musicComposer <object>": {
+        "checks": [
+            "<object> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_object> compose <subject>?",
+        "answer_template": "<new_object> did not compose <subject>."
+    },
+    "<subject> http://dbpedia.org/ontology/publisher <object>": {
+        "checks": [
+            "<object> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_object> publish <subject>?",
+        "answer_template": "<new_object> did not publish <subject>. "
+    },
+    "<subject> http://dbpedia.org/ontology/author <object>": {
+        "checks": [
+            "<object> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_object> write <subject>?",
+        "answer_template": "<new_object> did not write <subject>."
+    },
+    "<subject> http://dbpedia.org/ontology/knownFor <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "Why was <new_subject> known for <object>?",
+        "answer_template": "<new_subject> is not known for <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/commander <object>": {
+        "checks": [
+            "<object> in persondata_en.ttl"
+        ],
+        "question_template": "How long did <new_object> serve as commander of <subject>?",
+        "answer_template": "<new_object> never served as commander of <subject>."
+    },
+    "<subject> http://dbpedia.org/ontology/alias <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "Why is <new_subject> also known as <object>?",
+        "answer_template": "<new_subject> was never known as <object>."
+    },
+    "<subject> http://dbpedia.org/ontology/spouse <object>": {
+        "checks": [
+            "<subject> in persondata_en.ttl"
+        ],
+        "question_template": "When did <new_subject> marry <object>?",
+        "answer_template": "<new_subject> was never married to <object>."
+    }
+}
